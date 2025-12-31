@@ -12,7 +12,7 @@ from typing import ClassVar
 # ---- CONFIG ----
 LLM = ChatGoogleGenerativeAI(
     model="gemini-2.0-flash",
-    google_api_key="AIzaSyB3nDVLSAgxmNQdi1ksiE1oNLi8ITgIf4o",
+    google_api_key="Enter Your API KEY",
     temperature=0.1,
     max_tokens=2048
 )
